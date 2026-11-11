@@ -20,8 +20,7 @@ clients particuliers et grossistes) à partir du jeu de données public **Online
 |---|---|
 | Lignes brutes | **525 461** (décembre 2009 → décembre 2010) |
 | Doublons supprimés | 6 865 |
-| Lignes sans client, quantité ou prix supprimées | ~ 110 000 |
-| Quantités ou prix négatifs ou nuls exclus (retours, annulations) | ✔ |
+| Lignes sans client, ou avec une quantité ou un prix négatif ou nul (retours, annulations) | 117 680 |
 | **Lignes conservées** | **400 916** |
 
 ## 📌 Résultats
